@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674053847 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-06-Operators/Basic-Operators/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
