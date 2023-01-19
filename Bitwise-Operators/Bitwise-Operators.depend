@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674129787 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-06-Operators/Bitwise-Operators/main.c
+	<stdio.h>
+	<stdlib.h>
+
