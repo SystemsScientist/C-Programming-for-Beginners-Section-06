@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674218374 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-06-Operators/Print-the-Byte-Size-of-the-Basic-Data-Types/main.c
+	<stdio.h>
+	<stdlib.h>
+
