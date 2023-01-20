@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674216448 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-06-Operators/Convert-Minutes-to-Years-and-Days/main.c
+	<stdio.h>
+	<stdlib.h>
+
